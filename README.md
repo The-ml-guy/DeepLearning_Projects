@@ -1,5 +1,3 @@
-# DeepLearning_Projects
-
 # Deep Learning Projects & Algorithms
 
 Welcome to the **Deep Learning Projects & Algorithms** repository! 🚀
