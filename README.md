@@ -51,8 +51,8 @@ deep-learning/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/deep-learning.git
-cd deep-learning
+git clone https://github.com/The-ml-guy/Deep-learning_Projects.git
+cd Deep-learning_Projects
 ```
 
 ### Install Dependencies
