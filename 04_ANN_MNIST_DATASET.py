@@ -9,7 +9,7 @@ import torch.optim as optim
 from torch.utils.data import DataLoader, random_split
 from torchvision import datasets, transforms
 
-# 1. Download and preprocess a native PyTorch dataset (MNIST Handwritten Digits)
+#
 # We flatten the 28x28 image grids into a single 784-dimension vector line
 transform = transforms.Compose([
     transforms.ToTensor(),
