@@ -80,4 +80,9 @@ with torch.no_grad():
 
 accuracy = 100 * correct / total
 print(f"\n--- Model Evaluation ---")
-print(f"Test Accuracy across MNIST: {accuracy:.2f}%")
+print(f"Accuracy Score: {accuracy:.2f}%")
+
+
+
+
+
