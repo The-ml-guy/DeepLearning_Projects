@@ -52,7 +52,7 @@ deep-learning/
 
 ```bash
 git clone https://github.com/The-ml-guy/Deep-learning_Projects.git
-cd Deep-learning_Projects
+cd Deeplearning_Projects
 ```
 
 ### Install Dependencies
