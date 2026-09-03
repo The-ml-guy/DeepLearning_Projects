@@ -65,3 +65,5 @@ y_pred = y_prob.argmax(axis=1)
 
 from sklearn.metrics import accuracy_score
 accuracy_score(y_test,y_pred)
+
+#And the accuracy is very good around 0.9778 or (97.7 %)
