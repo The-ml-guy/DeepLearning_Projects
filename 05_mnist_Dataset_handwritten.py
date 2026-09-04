@@ -29,7 +29,7 @@ model.add(Flatten(input_shape=(28,28)))
 model.add(Dense(128,activation='relu'))
 model.add(Dense(10,activation='softmax'))
 
-
+#to get the summeary of the model that what are the thigs sused in the model
 model.summary()
 
 #now we will compile the model with out one hot encode for Spase_categorical_crossentropy, 
